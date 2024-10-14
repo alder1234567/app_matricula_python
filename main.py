@@ -23,4 +23,4 @@ while True:
     elif opcion.lower() == "n":
         break
 
-print(lista_alumnos)
+print(lista_alumnos) 
