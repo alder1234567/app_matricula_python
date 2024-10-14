@@ -43,5 +43,5 @@ source matricula/Scripts/activate
 6. para desactivar la carpeta
 ```bash
 deactiva
-```
+``` 
  
